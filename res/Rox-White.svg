@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42 34">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 0.5px;
+      }
+
+      .c {
+        font-size: 10.2px;
+        fill: #2187bf;
+        font-family: Linotte-SemiBold, Linotte;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <title>Rox</title>
+  <g>
+    <polygon class="a" points="1.5 14.97 21.08 33.5 33.68 33.5 14.11 14.97 1.5 14.97"/>
+    <path class="a" d="M1.5.5l9.39,8.88H22.44a3.18,3.18,0,0,1,2.36,1,2.35,2.35,0,0,1,0,3.41A3.35,3.35,0,0,1,22.2,15H16.52l8.85,8.38s6.44-1.53,8.31-7.11a11.91,11.91,0,0,0,0-8.63c-1.22-2.79-3.28-4.5-6.54-6.22A7.69,7.69,0,0,0,23.55.5Z"/>
+  </g>
+  <g>
+    <ellipse class="b" cx="35" cy="25.82" rx="5" ry="4.58"/>
+    <text class="c" transform="translate(32 28.07) scale(1.19 1)">x</text>
+  </g>
+</svg>
